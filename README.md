@@ -2,4 +2,6 @@
 ## paragraf
 ![paragraf](ss/ss1.png)
 ## Heading
-![paragraf](ss/ss2.png)
+![Heading](ss/ss2.png)
+## Pormat Texs
+![Pormat_teks](ss/ss3.png)
