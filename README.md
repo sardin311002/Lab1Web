@@ -6,7 +6,7 @@
 ## Heading
 **disini saya menambahkan Heading dengan keterangan tag "< h >"**
 ![Heading](ss/ss2.png)
-## Format Texs
+## Format Texs ggg
 **disini saya menambahkan pormat Teks dengan keterangan tag " untuk blok warna huruf < span >""untuk huruf tebal < b >""untuk huruf miring < i >""keterangan garis bawah huruf< u >" dan disini saya juga menambahkan Gambar logo UPB dengan menggunakan keterangan Teg "< img >"
 ![Pormat_teks](ss/ss3.png)**
 ## HyperLink
